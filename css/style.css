@@ -333,7 +333,7 @@ section {
     float: left;
     height: 80px;
     line-height: 70px;
-    margin-right: 20px;
+    margin-right: 80px;
 }
 
 #logo h1, #logo h2 {
@@ -341,7 +341,7 @@ section {
 }
 
 #banner #logo h1 {
-    font-size: 28px;
+    font-size: 80px;
     margin-right: 10px;
     font-weight: 900;
     padding: 0;
@@ -353,9 +353,9 @@ section {
 }
 
 #logo img {
-    max-height: 22px;
+    max-height: 80px;
     vertical-align: middle;
-    margin-right: 15px;
+    margin-right: 80px;
 }
 
 #navigation-logo {

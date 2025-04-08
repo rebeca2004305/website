@@ -54,7 +54,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Transparent Navigation Color on a Banner */
 
 #header nav a, #header i {
-    color: #710000;
+    color: #fff;
 }
 
 
@@ -191,7 +191,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 16px;
     font-weight:300;
-    color:#fff;
+    color: #fff;
 }
 
 /* Testimonial */
@@ -203,7 +203,7 @@ body {
 }
 
 .testimonial.classic q, .testimonial.classic footer {
-    color: #710000;
+    color: #fff;
 }
 
 
@@ -234,7 +234,7 @@ h4 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 18px; 
     font-weight:400;
-    color: #710000;
+    color: #fff;
 }
 
 h5 {
@@ -265,7 +265,7 @@ h6 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:14px;
     font-weight:bold;
-    color: #fff;
+    color: #710000;
 }
 
 
