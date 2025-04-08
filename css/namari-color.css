@@ -22,7 +22,7 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color: #710000;
+    color: #fff;
 }
 
 a:hover, #header.nav-solid nav a:hover {
@@ -32,13 +32,13 @@ a:hover, #header.nav-solid nav a:hover {
 /* Default Icon Color */
 
 .icon i {
-    color: #710000;
+    color: #fff;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #710000;
+    background: #fff;
 }
 
 .pricing-block-content:hover {
@@ -86,7 +86,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
-    color:#fff;    
+    color: #fff;    
 }
 
 .section-heading h2:after {
@@ -105,14 +105,14 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Icon Colors */
 
 .primary-color .icon i, .primary-color i {
-    color:#fff;
+    color: #710000;
 }
 
 
 /* Secondary Background and Text Colors */
 
 .secondary-color {
-    background-color:#f5f5f5;
+    background-color: #fff;
 }
 
 
@@ -138,7 +138,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:15px;
     font-weight:normal;
-    color: #710000;
+    color: #fff;
 }
 
 /* Logo, if you are using Fonts as Logo and not image
@@ -299,7 +299,7 @@ h6 {
 /* Button Color */
 
 #banner .button {
-    border-color:#111;
+    border-color: #710000;
 }
 
 
