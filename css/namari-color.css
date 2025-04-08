@@ -15,7 +15,7 @@
 
 
 body {
-    background-image: image(banner-images);
+    background:#111;
 }
 
 
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background: #710000 ;
+    background: #fff ;
     content:"";
     display:block;
     width:30px;
@@ -124,7 +124,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
+    background: url("../images/banner-images/f32e01bf2322a178cabcb64e5587e318.jpg") no-repeat center top;
     background-size:cover;
 }
 
